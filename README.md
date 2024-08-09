@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) 😁
 
  <div>
    <a href="https://github.com/Pacheco-Ester">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Mergulhando no café ☕ em códigos 🕹, me segue aí!!!
  
 <div> 
   
